@@ -1,6 +1,8 @@
 # Grocery-Shopping-Aid
 ROS-Based Robotic Camera System for Visually Impaired Users
 
+## Date Created: Jun 2024
+
 This project implements a ROS-based robotic camera system designed to assist visually impaired users. It leverages YOLOv10 for object detection and Automatic Speech Recognition (ASR) libraries to identify and describe items, such as grocery products. The system then communicates this information to the user via text-to-speech, achieving a 96% detection accuracy in describing items.
 
 
